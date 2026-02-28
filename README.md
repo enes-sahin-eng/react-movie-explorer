@@ -6,7 +6,7 @@ Designed with user experience at its core, this application integrates seamlessl
 
 ## 🚀 Live Demo
 Check out the live version of the application here:
-👉 **[https://react-movie-explorer-git-main-enessahin2s-projects.vercel.app/]**
+👉 **https://react-movie-explorer-git-main-enessahin2s-projects.vercel.app/**
 
 ## ✨ Key Features
 * **Comprehensive Search & Pagination:** URL-based state management (`?q=batman&page=2`) allows users to easily share search results and navigate smoothly between pages.
